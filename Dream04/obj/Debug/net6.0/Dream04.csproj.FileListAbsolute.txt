@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\C#\Dream04\obj\Debug\net6.0\Dream04.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\C#\Dream04\obj\Debug\net6.0\Dream04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\C#\Dream04\obj\Debug\net6.0\Dream04.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\C#\Dream04\obj\Debug\net6.0\Dream04.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\C#\Dream04\obj\Debug\net6.0\Dream04.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\C#\Dream04\bin\Debug\net6.0\Dream04.exe
+C:\Users\Администратор\Desktop\C#\Dream04\bin\Debug\net6.0\Dream04.deps.json
+C:\Users\Администратор\Desktop\C#\Dream04\bin\Debug\net6.0\Dream04.runtimeconfig.json
+C:\Users\Администратор\Desktop\C#\Dream04\bin\Debug\net6.0\Dream04.dll
+C:\Users\Администратор\Desktop\C#\Dream04\bin\Debug\net6.0\Dream04.pdb
+C:\Users\Администратор\Desktop\C#\Dream04\obj\Debug\net6.0\Dream04.dll
+C:\Users\Администратор\Desktop\C#\Dream04\obj\Debug\net6.0\refint\Dream04.dll
+C:\Users\Администратор\Desktop\C#\Dream04\obj\Debug\net6.0\Dream04.pdb
+C:\Users\Администратор\Desktop\C#\Dream04\obj\Debug\net6.0\Dream04.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\C#\Dream04\obj\Debug\net6.0\ref\Dream04.dll
